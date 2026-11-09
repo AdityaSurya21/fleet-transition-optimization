@@ -1,0 +1,19 @@
+# data is downloaded with get_data.py, not stored in the repo
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# solver scratch files
+*.mps
+*.lp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
